@@ -46,6 +46,6 @@ void loop() {
 		Serial.print(",  ");
                 Serial.print("z:"); 
 		Serial.println(z ,DEC); 
-		delay(100);                          // 延时100*1ms
+		delay(1000);                          // 延时100*1ms
 }
 
